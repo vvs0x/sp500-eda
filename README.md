@@ -6,7 +6,7 @@ sp500-eda/
 ├── README.md
 ├── report.pdf
 ├── data/
-    └── sp500_companies.csv
+│   └── sp500_companies.csv
 └── figures/
     └── 
 ```
